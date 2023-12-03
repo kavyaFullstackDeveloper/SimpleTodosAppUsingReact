@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.container {
+  background-color: #ffc2a0;
+  padding: 40px;
+}
+
+.todosContainer {
+  background-color: #ffff;
+  border-radius: 30px;
+}
+
+h1 {
+  color: #ff8542;
+  text-align: center;
+  padding-top: 30px;
+}
